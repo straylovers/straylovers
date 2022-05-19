@@ -24,10 +24,10 @@ baseurl: /straylovers
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logofeather.png
+avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logofeathersmall.png
+favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
 
 
 # 菜单中的按钮
@@ -52,7 +52,7 @@ footer-links:
   weibo:  u/7049217172
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: #youremailaddress@mail.com
+  email: candybox2022@163.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: #FromEndWorld/loffer #https://github.com/<>
