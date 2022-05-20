@@ -24,10 +24,10 @@ baseurl: /straylovers
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://raw.githubusercontent.com/straylovers/straylovers/master/images/logofeather.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://raw.githubusercontent.com/straylovers/straylovers/master/images/logofeathersmall.png
 
 
 # 菜单中的按钮
@@ -76,12 +76,12 @@ footer-text: Copyright (c) 2022 郁糖
 # disqus: loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-gitalk:
-  clientID: b6c765aa454ca312b4c1
-  clientSecret: 9bc42b7c709363eb83795b97afb24cf86da51680
-  repo: straylovers
-  owner: straylovers
-  proxy: https://straylovers.github.io/straylovers/
+# gitalk:
+  # clientID: b6c765aa454ca312b4c1
+  # clientSecret: 9bc42b7c709363eb83795b97afb24cf86da51680
+  # repo: straylovers
+  # owner: straylovers
+  # proxy: https://straylovers.github.io/straylovers/
 
 # 输入Google Analytics web tracking code
 google_analytics:
