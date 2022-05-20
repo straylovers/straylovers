@@ -1,15 +1,12 @@
 ---
 layout: post
 title: 太阳城札记
-date: 2022-03-09
-Author: 郁糖
+date: 2022-03-05
+author: 郁糖
 categories: 文豪野犬
 tags: 织太
 comments: true
---- 
-
-
-
+---
 
 在他到来之前，太阳城从未升起过太阳。  
 
