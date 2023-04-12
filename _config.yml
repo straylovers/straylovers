@@ -83,8 +83,8 @@ gitalk:
   owner: straylovers
   proxy: https://cors-anywhere.herokuapp.com/https://github.com/login/oauth/access_token
 
-深入浅出 Gitalk 留言插件
-原文链接： https://xie.infoq.cn/article/9e50cb5e9d179a179fc7fece4
+# 深入浅出 Gitalk 留言插件
+# 原文链接： https://xie.infoq.cn/article/9e50cb5e9d179a179fc7fece4
 
 # 输入Google Analytics web tracking code
 google_analytics:
