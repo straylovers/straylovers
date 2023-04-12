@@ -76,12 +76,12 @@ footer-text: Copyright (c) 2022 郁糖
 # disqus: loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-# gitalk:
-  # clientID: b6c765aa454ca312b4c1
-  # clientSecret: 9bc42b7c709363eb83795b97afb24cf86da51680
-  # repo: straylovers
-  # owner: straylovers
-  # proxy: https://straylovers.github.io/straylovers/
+gitalk:
+  clientID: efedfaff995f3c8a2ed6
+  clientSecret: 11c4e25b58e91ac5a0e76126eba516547a5e36ad
+  repo: straylovers
+  owner: straylovers
+  proxy: https://straylovers.github.io/straylovers/
 
 # 输入Google Analytics web tracking code
 google_analytics:
