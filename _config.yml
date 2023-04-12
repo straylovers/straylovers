@@ -81,7 +81,7 @@ gitalk:
   clientSecret: 11c4e25b58e91ac5a0e76126eba516547a5e36ad
   repo: straylovers
   owner: straylovers
-  proxy: https://cors-anywhere.herokuapp.com/https://github.com/login/oauth/access_token
+  proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
 
 # 深入浅出 Gitalk 留言插件
 # 原文链接： https://xie.infoq.cn/article/9e50cb5e9d179a179fc7fece4
