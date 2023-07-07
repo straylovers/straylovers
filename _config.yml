@@ -38,6 +38,8 @@ navigation:
     url: /about
   - name: 归档
     url: /archive
+  - name: 合集
+    url: /categories
   - name: 标签
     url: /tags
 
