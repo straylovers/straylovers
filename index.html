@@ -35,6 +35,16 @@ layout: default
             {% endfor %}
           </ul>
 
+          <ul class="category">
+            {% for tag in post.categories %}
+            <li>
+              <a href="{{ site.url }}{{ site.baseurl }}/categories#{{ category }}">
+                {{ tag }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+
           <script>
             feather.replace()
           </script>
