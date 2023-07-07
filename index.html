@@ -36,7 +36,7 @@ layout: default
           </ul>
 
           <ul class="category">
-            {% for tag in post.categories %}
+            {% for category in post.categories %}
             <li>
               <a href="{{ site.url }}{{ site.baseurl }}/categories#{{ category }}">
                 {{ category }}
@@ -90,7 +90,7 @@ layout: default
         </ul>
 
         <ul class="category">
-            {% for tag in post.categories %}
+            {% for category in post.categories %}
             <li>
               <a href="{{ site.url }}{{ site.baseurl }}/categories#{{ category }}">
                 {{ category }}
