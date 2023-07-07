@@ -488,7 +488,7 @@ nav {
         margin: 3px 3px 3px 0;
         padding: .5px 4px;
         color: $base-color;
-        background-color: $tag-index-label-background-color;
+        background-color: $category-index-label-background-color;
         border-radius: 3px;
 
         &:hover {
@@ -721,7 +721,7 @@ nav {
       display: inline-block;
       margin: 1px;
       color: $base-color;
-      background-color: $tag-index-label-background-color;
+      background-color: $category-index-label-background-color;
       border-radius: 3px;
 
       &:hover {
@@ -733,7 +733,7 @@ nav {
         padding: .5px 5px;
 
         &.count {
-          background-color: $tag-index-count-background-color;
+          background-color: $category-index-count-background-color;
           border-radius: 0 3px 3px 0;
 
         }
